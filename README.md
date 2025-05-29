@@ -5,8 +5,8 @@ This project is a Retrieval-Augmented Generation (RAG) API built using FastAPI. 
 -  LLaMA 2 via Ollama as the local LLM
 -  LangChain for chaining and document retrieval
 -  Dockling is used to extract text from pdf 
-- 🔎 FAISS for vector similarity search
-- ⚡ FastAPI for serving a question-answering endpoint
+-  FAISS for vector similarity search
+-  FastAPI for serving a question-answering endpoint
 
 ---
 
