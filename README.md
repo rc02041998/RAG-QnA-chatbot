@@ -26,7 +26,7 @@ This project is a Retrieval-Augmented Generation (RAG) API built using FastAPI. 
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the repo and set up your environment
 
@@ -65,7 +65,7 @@ Visit: [http://localhost:8000/docs](http://localhost:8000/docs)
 
 ---
 
-## 🧪 Example POST request to `/ask`
+##  Example POST request to `/ask`
 
 ```json
 POST http://localhost:8000/ask
@@ -80,7 +80,7 @@ Content-Type: application/json
 
 ---
 
-## 📌 Features
+##  Features
 
 - One-time vector DB creation
 - Efficient PDF document retrieval
@@ -90,7 +90,7 @@ Content-Type: application/json
 
 ---
 
-## 🛠 To Do
+## To Do
 
 - [ ] Add file upload support
 - [ ] Add streaming responses
